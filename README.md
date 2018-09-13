@@ -1,4 +1,5 @@
 # Peer-graded Assignment: Bash, Make, Git, and GitHub
-Thu 13 Sep 2018 04:19:39 BST
+# The make command **make** was run at:
+Thu 13 Sep 2018 04:22:28 BST
 The total number of lines of the script is:
 41
